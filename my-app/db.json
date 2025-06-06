@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ramon",
+      "email": "ramon.lopes2014@hotmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "2",
+      "name": "jose",
+      "email": "jose@hotmail.com",
+      "senha": "12345"
+    },
+    {
+      "id": "85fb",
+      "name": "Ramon Lopes de Camargo",
+      "email": "lcamargo789@gmail.com",
+      "senha": "12345678"
+    },
+    {
+      "id": "7941",
+      "name": "Caduzinho milgrau",
+      "email": "000@hotmail.com",
+      "senha": "12345"
+    }
+  ]
+}
